@@ -5,7 +5,7 @@
 - <b>Network Traffic Analysis </b>
   - [ Malware Analysis with Wireshark](https://github.com/eadey/MalwareAnalysis)
  
-<h2> Certifications</h2>
+<h2>📋 Certifications</h2>
 - <b>ISC2 Certified in Cybersecurity </b>
 
 <h2>📺 Popular YouTube Videos</h2>
