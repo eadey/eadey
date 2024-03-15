@@ -1,6 +1,6 @@
-<h1>Hi, I'm Esther! <br/><a href="https://github.com/eadey"></a> <a href="https://www.linkedin.com/in/estheradeyemi/">Cybersecurity Analyst</a> </h1>
+<h1>Hi, I'm Esther! <br/><a href="https://github.com/eadey"></a> <a href="https://www.linkedin.com/in/estheradeyemi/"></a> </h1>
 
-<h2>👨‍💻 SOC Analyst Projects</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Malware Analysis with Wireshark </b>
   - [Analyse network packets](https://github.com/eadey/MalwareAnalysis)
