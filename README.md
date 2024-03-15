@@ -2,8 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- <b>Malware Analysis with Wireshark </b>
-  - [Analyse network packets](https://github.com/eadey/MalwareAnalysis)
+- <b>Network Traffic Analysis </b>
+  - [ Malware Analysis with Wireshark](https://github.com/eadey/MalwareAnalysis)
+ 
+<h2> Certifications</h2>
+- <b>ISC2 Certified in Cybersecurity </b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
