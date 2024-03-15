@@ -3,7 +3,7 @@
 <h2>👨‍💻 SOC Analyst Projects:</h2>
 
 - <b>Malware Analysis with Wireshark </b>
-  - [Praciting DS & Algos in Python](https://github.com/eadey/malware pcap analysis)
+  - [Analyze network packets](https://github.com/eadey/malware pcap analysis)
 
 <h2>📺 Popular YouTube Videos</h2>
 
