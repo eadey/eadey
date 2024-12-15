@@ -7,7 +7,7 @@
  
 <h2>📋 Certifications</h2>
 - <b>CompTia Security+ </b>
-  <b>ISC2 Certified in Cybersecurity </b>
+- <b>ISC2 Certified in Cybersecurity </b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
