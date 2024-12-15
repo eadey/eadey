@@ -1,4 +1,4 @@
-<h1>Hi, I'm Esther! <br/><a href="https://github.com/eadey"></a> <a href="https://www.linkedin.com/in/estheradeyemi/"></a> </h1>
+<h1>Hi, I'm Esther! <br/><a href="https://github.com/eadey"></a> <a href="https://www.linkedin.com/in/estheradeyemi1/"></a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
@@ -7,6 +7,7 @@
  
 <h2>📋 Certifications</h2>
 - <b>CompTia Security+ </b>
+
 - <b>ISC2 Certified in Cybersecurity </b>
 
 <h2>📺 Popular YouTube Videos</h2>
