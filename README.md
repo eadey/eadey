@@ -6,6 +6,7 @@
   - [ Malware Analysis with Wireshark](https://github.com/eadey/MalwareAnalysis)
  
 <h2>📋 Certifications</h2>
+
 - <b>CompTia Security+ </b>
 
 - <b>ISC2 Certified in Cybersecurity </b>
